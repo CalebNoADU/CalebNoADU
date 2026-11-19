@@ -4,7 +4,7 @@
 
 I build across **embedded ARM7TDMI C systems**, **SQL & vector-retrieval backends**, and **offline-first web apps & procedural game engines** — combining empirical quantitative rigor with hands-on systems debugging.
 
-🔗 **[Live Interactive Portfolio Hub](https://calebnoadu.github.io/caleb-adu-portfolio/)** · 📂 **[Main Portfolio Repository](https://github.com/CalebNoADU/caleb-adu-portfolio)**
+🔗 **[Live Interactive Portfolio Hub](https://calebnoadu.github.io/caleb-adu-portfolio/)** · 📄 **[Download CV (PDF)](https://calebnoadu.github.io/caleb-adu-portfolio/Caleb_Adu_CV.pdf)** · 📂 **[Main Portfolio Repository](https://github.com/CalebNoADU/caleb-adu-portfolio)**
 
 ---
 
